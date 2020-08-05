@@ -48,6 +48,10 @@ https://www.youtube.com/watch?v=lqZeEowzUXY
 
 <a href="https://play.google.com/store/apps/details?id=com.lazybean.socksperapp"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
 
+Any app issue, send me an email: easylazybean@gmail.com
+
+Other network settings issues, you can also contact me for help.
+
 # RProxid[NoRoot version]
 
 Planning...
