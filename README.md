@@ -55,3 +55,5 @@ Other network settings issues, you can also contact me for help.
 # RProxid[NoRoot version]
 
 Planning...
+
+[Update 23/08/2020]: NoRoot version has been developed, but due to the performance issue, it should not be released to production.
