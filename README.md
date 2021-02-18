@@ -11,7 +11,7 @@ RProxid is a Proxifier like tool on the Android platform.
 
 RProxid allows network applications that do not support working through proxy servers to operate through a SOCKS or HTTP(S) proxy.
 
-With RProxid you can easily tunnel all TCP/UDP connections on the selected application(s) to differet proxy servers, it means RProxid can set different proxy for each application and they can work in parallel.
+With RProxid you can easily tunnel all TCP/UDP connections on the selected application(s) to different proxy servers, it means RProxid can set different proxy for each application and they can work in parallel.
 
 ## RProxid allows you to:
 
