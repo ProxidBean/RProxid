@@ -52,6 +52,10 @@ Any app issue, send me an email: easylazybean@gmail.com
 
 Other network settings issues, you can also contact me for help.
 
+## Download apk:
+
+https://github.com/EasyLazyBean/RProxid/blob/master/rproxid-release-latest.apk
+
 # RProxid[NoRoot version]
 
 Planning...
