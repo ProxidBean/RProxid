@@ -54,7 +54,7 @@ Other network settings issues, you can also contact me for help.
 
 ## Download apk:
 
-https://github.com/EasyLazyBean/RProxid/blob/master/rproxid-release-latest.apk
+https://github.com/EasyLazyBean/RProxid/releases/latest
 
 # RProxid[NoRoot version]
 
