@@ -58,6 +58,6 @@ https://github.com/EasyLazyBean/RProxid/releases/latest
 
 # RProxid[NoRoot version]
 
-Planning...
+Please check VProxid out.
 
-[Update 23/08/2020]: NoRoot version has been developed, but due to the performance issue, it should not be released to production.
+https://github.com/EasyLazyBean/VProxid/releases/latest
