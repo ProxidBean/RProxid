@@ -56,7 +56,7 @@ Other network settings issues, you can also contact me for help.
 
 https://github.com/EasyLazyBean/RProxid/releases/latest
 
-# RProxid[NoRoot version]
+# VProxid[NonRoot version]
 
 Please check VProxid out.
 
