@@ -7,7 +7,7 @@
 
 # RProxid[Root version]
 ## Welcome to RProxid
-RProxid is a Proxifier like tool on the Android platform.
+RProxid is a Proxifier alternative tool on the Android platform.
 
 RProxid allows network applications that do not support working through proxy servers to operate through a SOCKS or HTTP(S) proxy.
 
